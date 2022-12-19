@@ -1,0 +1,28 @@
+.container{
+ display: flexbox;
+ height: 100%;
+ width: 100%;
+ position:relative;
+}
+
+.img{
+display: inline-block;
+ /* position: relative; */
+}
+
+.details{
+display:inline-table;
+ /* position: relative; */
+ text-align: start;
+
+margin-right:50%;
+
+} 
+.text{
+
+ justify-content: center;
+ margin-left: 10%;
+ margin-top: 40px;
+
+
+}
